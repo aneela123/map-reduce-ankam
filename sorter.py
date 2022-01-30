@@ -1,5 +1,5 @@
 n = open("myoutput.txt","r")  # open file, read-only
-s = open("sorter.txt", "w") # open file, write
+s = open("mySortOutput.txt", "w") # open file, write
 lines = n.readlines()
 lines.sort()
 
