@@ -1,2 +1,2 @@
 # map-reduce-ankam
-practicing mapping and reducing
+practicing the mapping and reducing 
